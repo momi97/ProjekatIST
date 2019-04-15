@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Adresar>
+  
+  <Osoba Id="1" >
+    <PunoIme>
+      <Ime>Nikola</Ime>
+      <Prezime>Momic</Prezime>
+      
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>31</Dan>
+    <Mesec>07</Mesec>
+    <Godina>1997</Godina>
+    </DatumRodjenja>
+    <Adresa tip="Stalna">
+      <Ulica>Visegradska</Ulica>
+    <Broj>7</Broj>
+    <Grad>Beograd</Grad>
+    </Adresa>
+    <Telefon tip="Mobilni">062/631-463</Telefon>
+    <Email tipEmaila="Privatna">momic@gmail.com</Email>
+     <Email tipEmaila="Sluzbena" >momicc@gmail.com</Email>
+    <Email tipEmaila="Sluzbena" >momiccc@gmail.com</Email>
+
+  </Osoba>
+    <Osoba Id="2" >
+    <PunoIme>
+      <Ime>Marija</Ime>
+      <SrednjeIme>Branko</SrednjeIme>
+      <Prezime>Momic</Prezime>
+      
+      
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>31</Dan>
+    <Mesec>07</Mesec>
+    <Godina>1994</Godina>
+    </DatumRodjenja>
+    <Adresa tip="Stalna">
+      <Ulica>Visegradska</Ulica>
+    <Broj>7</Broj>
+    <Grad>Beograd</Grad>
+    </Adresa>
+    <Telefon tip="Mobilni">069/310-797</Telefon>
+    <Email tipEmaila="Privatna">momic@gmail.com</Email>
+     <Email tipEmaila="Privatna">momica@gmail.com</Email>
+    <Email tipEmaila="Sluzbena" >momics@gmail.com</Email>
+  </Osoba>
+    <Osoba Id="3" >
+    <PunoIme>
+      <Ime>Uros</Ime>
+      <SrednjeIme>Branko</SrednjeIme>
+      <Prezime>Momic</Prezime>
+      
+      
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>14</Dan>
+    <Mesec>11</Mesec>
+    <Godina>1995</Godina>
+    </DatumRodjenja>
+    <Adresa tip="Stalna">
+      <Ulica>Visegradska</Ulica>
+    <Broj>7</Broj>
+    <Grad>Beograd</Grad>
+    </Adresa>
+    <Telefon tip="Mobilni">062/630-963</Telefon>
+    <Email tipEmaila="Privatna">momic@gmail.com</Email>
+
+  </Osoba>
+  <Kompanija>
+    <ImeKompanije>BBC</ImeKompanije>
+  <Adresa tip="Stalna">
+    <Ulica>Bulevar Oslobodjenja</Ulica>
+  <Broj>10</Broj>
+  <Grad>Beograd</Grad>
+  </Adresa>
+  <Telefon tip="Fiksni">050/205-592</Telefon>
+  <Email tipEmaila="Privatna">nikola@gmail.com</Email>
+  <Email tipEmaila="Sluzbena" >momic@gmail.com</Email>
+<Email tipEmaila="Sluzbena" >momara@gmail.com</Email>
+  </Kompanija>
+  <Kompanija>
+    <ImeKompanije>Microsoft</ImeKompanije>
+  <Adresa tip="Stalna">
+    <Ulica>Jurija Gagarina</Ulica>
+  <Broj>10</Broj>
+  <Grad>Beograd</Grad>
+  </Adresa>
+  <Telefon tip="Fiksni">050/205-592</Telefon>
+  <Email tipEmaila="Privatna">nikola@gmail.com</Email>
+  <Email tipEmaila="Sluzbena" >momic@gmail.com</Email>
+<Email tipEmaila="Sluzbena" >momara@gmail.com</Email>
+  </Kompanija>
+</Adresar>
+
+  
+
+
