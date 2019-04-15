@@ -22,8 +22,8 @@ xsi:noNamespaceSchemaLocation="ProjekatSchema.xsd">
     </Adresa>
     <Telefon tip="Mobilni">062/631-463</Telefon>
     <Email tipEmaila="Privatna">momic@gmail.com</Email>
-     <Email tipEmaila="Sluzbena" >momicc@gmail.com</Email>
-    <Email tipEmaila="Sluzbena" >momiccc@gmail.com</Email>
+     <Email tipEmaila="Sluzbena" >vanja@gmail.com</Email>
+    <Email tipEmaila="Sluzbena" >milica@gmail.com</Email>
 
   </Osoba>
     <Osoba Id="2" >
@@ -45,9 +45,9 @@ xsi:noNamespaceSchemaLocation="ProjekatSchema.xsd">
     <Grad>Beograd</Grad>
     </Adresa>
     <Telefon tip="Mobilni">069/310-797</Telefon>
-    <Email tipEmaila="Privatna">momic@gmail.com</Email>
-     <Email tipEmaila="Privatna">momica@gmail.com</Email>
-    <Email tipEmaila="Sluzbena" >momics@gmail.com</Email>
+    <Email tipEmaila="Privatna">games@gmail.com</Email>
+     <Email tipEmaila="Privatna">lol@gmail.com</Email>
+    <Email tipEmaila="Sluzbena" >csgo@gmail.com</Email>
   </Osoba>
     <Osoba Id="3" >
     <PunoIme>
@@ -92,8 +92,8 @@ xsi:noNamespaceSchemaLocation="ProjekatSchema.xsd">
   </Adresa>
   <Telefon tip="Fiksni">555/333-661</Telefon>
   <Email tipEmaila="Privatna">nikola@gmail.com</Email>
-  <Email tipEmaila="Sluzbena" >momic@gmail.com</Email>
-<Email tipEmaila="Sluzbena" >momara@gmail.com</Email>
+  <Email tipEmaila="Sluzbena" >david@gmail.com</Email>
+<Email tipEmaila="Sluzbena" >duka@gmail.com</Email>
   </Kompanija>
   <Kompanija Id="3">
     <ImeKompanije>Sony</ImeKompanije>
@@ -104,8 +104,8 @@ xsi:noNamespaceSchemaLocation="ProjekatSchema.xsd">
     </Adresa>
     <Telefon tip="Fiksni">421/213-321</Telefon>
     <Email tipEmaila="Privatna">nikola@gmail.com</Email>
-    <Email tipEmaila="Sluzbena" >momic@gmail.com</Email>
-    <Email tipEmaila="Sluzbena" >momara@gmail.com</Email>
+    <Email tipEmaila="Sluzbena" >ivan@gmail.com</Email>
+    <Email tipEmaila="Sluzbena" >luka@gmail.com</Email>
   </Kompanija>
 </Adresar>
 
