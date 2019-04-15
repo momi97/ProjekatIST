@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE Adresar SYSTEM "ProjekatDTD.dtd">
 
-<Adresar>
+<Adresar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="ProjekatSchema.xsd">
   
   <Osoba Id="1" >
     <PunoIme>
