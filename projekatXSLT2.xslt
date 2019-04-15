@@ -19,7 +19,7 @@
           </tr>
 
           <xsl:for-each select="Osoba">
-            <xsl:if test="Adresa/@tip='Stalna' and DatumRodjenja/Godina &gt; 1990 and DatumRodjenja/Godina &lt; 2006 and substring(PunoIme/Prezime,1,1 )='M'">
+            <xsl:if test="Adresa/@tip='Stalna' and DatumRodjenja/Godina &gt; 1989 and DatumRodjenja/Godina &lt; 2006 and substring(PunoIme/Prezime,1,1 )='M'">
               <tr>
                 <td>
                   <xsl:value-of select="PunoIme/Ime"/>
