@@ -71,7 +71,7 @@ xsi:noNamespaceSchemaLocation="ProjekatSchema.xsd">
     <Email tipEmaila="Privatna">momic@gmail.com</Email>
 
   </Osoba>
-  <Kompanija>
+  <Kompanija Id="1">
     <ImeKompanije>BBC</ImeKompanije>
   <Adresa tip="Stalna">
     <Ulica>Bulevar Oslobodjenja</Ulica>
@@ -80,20 +80,32 @@ xsi:noNamespaceSchemaLocation="ProjekatSchema.xsd">
   </Adresa>
   <Telefon tip="Fiksni">050/205-592</Telefon>
   <Email tipEmaila="Privatna">nikola@gmail.com</Email>
-  <Email tipEmaila="Sluzbena" >momic@gmail.com</Email>
+  <Email tipEmaila="Sluzbena" >momicc@gmail.com</Email>
 <Email tipEmaila="Sluzbena" >momara@gmail.com</Email>
   </Kompanija>
-  <Kompanija>
+  <Kompanija Id="2">
     <ImeKompanije>Microsoft</ImeKompanije>
   <Adresa tip="Stalna">
     <Ulica>Jurija Gagarina</Ulica>
   <Broj>10</Broj>
   <Grad>Beograd</Grad>
   </Adresa>
-  <Telefon tip="Fiksni">050/205-592</Telefon>
+  <Telefon tip="Fiksni">555/333-661</Telefon>
   <Email tipEmaila="Privatna">nikola@gmail.com</Email>
   <Email tipEmaila="Sluzbena" >momic@gmail.com</Email>
 <Email tipEmaila="Sluzbena" >momara@gmail.com</Email>
+  </Kompanija>
+  <Kompanija Id="3">
+    <ImeKompanije>Sony</ImeKompanije>
+    <Adresa tip="Stalna">
+      <Ulica>Jurija Gagarina</Ulica>
+      <Broj>128</Broj>
+      <Grad>Beograd</Grad>
+    </Adresa>
+    <Telefon tip="Fiksni">421/213-321</Telefon>
+    <Email tipEmaila="Privatna">nikola@gmail.com</Email>
+    <Email tipEmaila="Sluzbena" >momic@gmail.com</Email>
+    <Email tipEmaila="Sluzbena" >momara@gmail.com</Email>
   </Kompanija>
 </Adresar>
 

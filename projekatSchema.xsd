@@ -124,6 +124,7 @@
               </xs:element>
 
             </xs:sequence>
+            <xs:attribute name="Id" type="xs:integer" use="required"></xs:attribute>
           </xs:complexType>
 
         </xs:element>
